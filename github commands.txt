@@ -1,0 +1,32 @@
+Follow these steps to add a project to Github from scratch.
+
+
+1) git init
+
+2) git add .
+
+3) git commit -m "Add all my files"
+
+4) git remote add origin https://github.com/yourusername/your-repo-name.git
+
+#Note:	Upload of project from scratch require git pull origin master.
+
+5) git pull origin master
+
+6) git push origin master
+
+7) git clone https://github.com/shafiqcoder/deep_learning_tasks.git
+
+8) change directory by cd 
+
+	#copy files you want to push in github remote repo
+
+9) git add .
+
+10) git status
+
+11) git commit -m "message"
+
+12) git push
+
+
