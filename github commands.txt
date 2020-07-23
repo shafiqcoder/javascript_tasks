@@ -30,3 +30,16 @@ Follow these steps to add a project to Github from scratch.
 12) git push
 
 
+############################################################
+How to create embedded repository?
+-one folder contains subfolder linked with different repositories on remote.
+
+
+1) on parent folder	git clone https://github.com/eromoe/test2    #e.g  https://github.com/shafiqcoder/pandas/
+2) git add test2/
+
+3) git commit -am 'new embeddded repo'
+
+4) Now change directory to newly cloned	and run	'git push'
+
+later on to update subrepo use same commands on that particular repo , git add, commit and push.
