@@ -3,6 +3,7 @@ switch statement executes a block of code depending on different cases.
 It is a part of conditional statements.
 it works for equality check, You cannot use range, greater than or less than checks etc.
 It has one or more blocks and an optional "default".
+Note: switch apply strict comparision (===), value and datatype
 example:
 Use switch statement to check for weekend.
 */
