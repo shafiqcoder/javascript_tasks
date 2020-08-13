@@ -43,5 +43,5 @@ How to create embedded repository?
 4) Now change directory to newly cloned	and run	'git push'
 
 later on to update subrepo use same commands on that particular repo , git add, commit and push.
-###########################################################
+########################################################
 
