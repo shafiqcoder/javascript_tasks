@@ -1,3 +1,3 @@
 var sayHi = require('./export.js') ;
 
-sayHi.sayHi('shafiq'); 
+sayHi.sayHi('shafiq');
