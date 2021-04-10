@@ -10,8 +10,9 @@ function bestRatingMovies(numbers) {
                 max_location = i;
             }
         }
+        //Swap first and max number in location(Putting max num on index 0)
         numbers[max_location] = numbers[j];
-        numbers[j] = max_num
+        numbers[j] = max_num//Putting max num on index 0
     }
     return numbers
 }
